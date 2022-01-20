@@ -1,0 +1,35 @@
+.main {
+  color: #ff136f;
+}
+.mainbg {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  border-radius: 6px;
+  border: none;
+}
+.yellowbg {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+  border-radius: 6px;
+}
+.bluebg {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+  border-radius: 6px;
+}
+form .btn-outline-success {
+  border-color: #ff136f;
+  color: #ff136f;
+}
+form .btn-outline-success:hover {
+  border-color: #ff136f;
+  background-color: #ff136f;
+  color: white;
+}
+.blackbg,
+.blackbg:hover {
+  background-color: black;
+  color: white;
+  border: none;
+}
+.card {
+  border-radius: 1rem;
+  border: none;
+}
